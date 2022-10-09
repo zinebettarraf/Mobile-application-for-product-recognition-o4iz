@@ -1,0 +1,9 @@
+
+Dans le dépôt git de o4iz il y a deux répertoires un pour le frontend de la première version nommé o4iz_version1
+et un second pour le frontend de la deuxième version nommé o4iz_version2.
+
+Pour générer l'apk o4iz v1 ou v2, veuillez vous placer dans le répertoire correspondant et lancez la commande : expo build:android
+(un compte expo est requis, veuillez créer le vôtre) ensuite l'apk est automatiquement généré dans votre compte.
+
+L'API à interoger dans la version une est par défaut placé dans la machine  192.168.185.102 avec le  port 6789 
+pour la changer veuillez changer la configuration dans le modal .
